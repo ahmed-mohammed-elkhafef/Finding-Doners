@@ -1,7 +1,7 @@
-# Income Prediction ML Dashboard - Group 2
+# Income Prediction ML Dashboard 
 
 **Project Name:** Income Prediction Machine Learning System  
-**Group:** Group 2  
+**Developed by:** Ahmed Elkhafef  
 **Supervisor:** George Samuel
 
 ---
