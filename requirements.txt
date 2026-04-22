@@ -1,0 +1,21 @@
+# Income Prediction ML Dashboard - Requirements
+# Group 2 Project
+# Supervisor: George Samuel
+# Date: April 2026
+
+# Core Data Science Libraries
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# Machine Learning & Model Serialization
+joblib==1.3.2
+
+# Web Dashboard & Visualization
+dash==2.14.2
+dash-bootstrap-components==1.5.0
+plotly==5.18.0
+
+# Supporting Libraries
+python-dateutil>=2.8.2
+pytz>=2023.3
